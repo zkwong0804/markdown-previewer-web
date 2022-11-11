@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.bcafe290.css",
+    "main.js": "/static/js/main.be206025.js",
+    "static/media/lofi-city.png": "/static/media/lofi-city.951652b698a5ca10b743.png",
+    "index.html": "/index.html",
+    "main.bcafe290.css.map": "/static/css/main.bcafe290.css.map",
+    "main.be206025.js.map": "/static/js/main.be206025.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bcafe290.css",
+    "static/js/main.be206025.js"
+  ]
+}
